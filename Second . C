@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main(){
+
+printf("Welcome to FOT,24/25 batch");
+
+return 0;
+
+}
