@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main(){
+
+printf("---------------*** This is my first C program ***----------------\n");
+printf("\n");
+printf("**************** Here is the way that i did it *******************\n");
+printf(\n);
+printf("-------------------- 2026.05.21 -----------------------------------\n");
+printf("\n";
+
+return 0;)
+
+}
